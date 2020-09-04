@@ -1,0 +1,17 @@
+---
+name: Mineage
+version: 1.0.0
+main: xPrim69x\Mineage\Main
+api: [3.0.0]
+author: §bPrim
+description: §bAllows disabling drops for specific blocks!
+website: §bhttps://prim69.ml
+commands:
+  mineage:
+    description: §bAllows disabling drops for specific blocks!
+    permission: mineage.command
+permissions:
+ mineage.command:
+  description: "Permission for Mineage"
+  default: op
+...
